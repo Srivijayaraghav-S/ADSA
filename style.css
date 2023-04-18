@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  label {
+    flex-basis: 150px;
+  }
+  
+  input {
+    flex-grow: 1;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  
